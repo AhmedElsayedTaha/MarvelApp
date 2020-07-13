@@ -14,6 +14,7 @@ import butterknife.ButterKnife;
 
 public class AvengersDetails extends AppCompatActivity {
 
+    //Hello new branch
     @BindView(R.id.img)
     ImageView img;
     @BindView(R.id.name)
